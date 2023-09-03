@@ -3,7 +3,7 @@
 La interfaz de usuario de la aplicación Rumanka es de inspiración propia.
 
 El diseño completo esta disponible
-en [Rumanka(]https://www.canva.com/design/DAFg16nm6Ds/XEtBusvQEWHlZSRAW2Kn_g/edit?utm_content=DAFg16nm6Ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+en [Rumanka](https://www.canva.com/design/DAFg16nm6Ds/XEtBusvQEWHlZSRAW2Kn_g/edit?utm_content=DAFg16nm6Ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 A continuación sepresentan las principales pantallas:
