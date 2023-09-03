@@ -12,7 +12,7 @@ A continuación sepresentan las principales pantallas:
 
    Cuando el usuario ingrese a la aplicaición debera realizar su ingreso. 
 
-   ![Loguin](Img/Login.png)
+   ![Loguin](Img/login.png)
 
    ## 2. Menú turista
 
