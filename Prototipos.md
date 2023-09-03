@@ -14,10 +14,52 @@ A continuación sepresentan las principales pantallas:
 
    ![Loguin](Img/login.png)
 
-   ## 2. Menú turista
+## 2. Menú turista
 
    El perfil turista una vez logueado, podrá visualizar un menú. 
 
-   ![Menú turista](Img/Nenu_turista.png)
+   ![Menú turista](Img/Menu_turista.png)
+
+## 3. Menú Guia
+
+   El perfil Guia Local una vez logueado, podrá visualizar un menú. 
+
+   ![Menú Guia](Img/Menu_guia.png)
+
+## 4. Educación
+
+   El perfil Guia Local dentro de su menu podra ingresar a la opción Educación. 
+
+   ![Educación](Img/Educacion.png)
+   
+## 5. Empleo
+
+   El perfil Guia Local dentro de su menu podra ingresar a la opción Empleo. 
+
+   ![Empleo](Img/Empleo.png)
+   
+## 6. Plaza
+
+   Los dos perfiles existentes para la aplicación podran visualizar dentro de su menú la opción de plaza.  
+
+   ![Plaza](Img/Plaza.png)
+
+## 7. Mapa. 
+
+   El mapa de colombia se podra visualizar dentro de los dos perfiles, pero sera de utilidad para los turistas para su consulta, filtro y acceso a perfiles de guias. 
+
+   ![Mapa](Img/Mapa_general.png)
+
+Al realizar un filtro se podra acceder a un segundo resultado. 
+
+   ![Mapa filtro](Img/Mapa_filtro.png)
+
+## 8. Perfil.
+
+   El guia local podra actualizar y organizar su perfil con sus servicios y habilidades según corresponsa. 
+
+   ![Perfil](Img/Perfil_guia.png)
+
+
 
 
