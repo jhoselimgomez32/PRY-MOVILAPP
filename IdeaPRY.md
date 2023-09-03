@@ -11,10 +11,13 @@ Esta aplicación pretende almacenar la información de manera central, por lo qu
 - [Mapas y guias](https://mapasyguias.com.co/)
 - [Anato](https://anato.org/)
 
-Prototipo: https://www.canva.com/design/DAFg16nm6Ds/XEtBusvQEWHlZSRAW2Kn_g/edit?utm_content=DAFg16nm6Ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # Aplicación para busqueda y reserva de restaurantes con comida saludables.
 Una plataforma que permita a los usuarios buscar por areas y pedir a domicilio alimentos o comida de restaurantes que ofrecen opciones saludables y equilibradas, con filtros de items de alimentos. 
 
 La información de los restaurantes sera parte del proyecto, en donde los restaurantes deberan registrar sus servicios en la plataforma. 
+
+### Aplicaciones similares
+
+- [Fithub](https://fithub.com.co/)
 
 Jhoselim Gomez
